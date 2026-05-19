@@ -7,7 +7,7 @@ This repository provides an end-to-end workflow, from injecting LoRA layers into
 ---
 
 ## Main Project: Furniture-AI
-This training pipeline is the underlying engine utilized for **[Furniture-AI](https://github.com/rauf-babar/Furniture-AI)**. 
+This training pipeline is the underlying engine utilized for **[Furnish-AI](https://github.com/rauf-babar/Furnish-AI)**. 
 
 Furniture-AI is a dedicated product built to generate high-quality, realistic furniture settings and interior design concepts using customized SDXL models. If you are interested in seeing how these LoRA models are deployed in a real-world application, please check out the main repository!
 
